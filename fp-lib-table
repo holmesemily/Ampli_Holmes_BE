@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "MaLib_Ampli_2022")(type "KiCad")(uri "D:/Documents/KiCad/6.0/footprints/MaLib_Ampli_2022.pretty")(options "")(descr ""))
+  (lib (name "CmpAmpliAudioTR")(type "KiCad")(uri "D:/Documents/KiCad/6.0/footprints/MaLib_Ampli_2022/MaLib_Ampli_2022/CmpAmpliAudioTR.pretty")(options "")(descr ""))
+)

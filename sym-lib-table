@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "New_Library")(type "KiCad")(uri "D:/Documents/KiCad/6.0/footprints/Lib_Ampli/New_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "Cmp_Ampli")(type "KiCad")(uri "D:/Documents/KiCad/6.0/footprints/Lib_Ampli/Cmp_Ampli.kicad_sym")(options "")(descr ""))
+  (lib (name "CmpAmpliAudioTR")(type "KiCad")(uri "D:/Documents/KiCad/6.0/footprints/MaLib_Ampli_2022/MaLib_Ampli_2022/CmpAmpliAudioTR.kicad_sym")(options "")(descr ""))
+)

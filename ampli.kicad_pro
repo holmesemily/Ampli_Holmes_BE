@@ -399,10 +399,8 @@
           "-12V",
           "GND",
           "Net-(J2-Pad2)",
-          "Net-(Q10-Pad1)",
           "Net-(Q10-Pad2)",
           "Net-(Q11-Pad1)",
-          "Net-(Q11-Pad2)",
           "Net-(R11-Pad2)"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",

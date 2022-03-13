@@ -3856,10 +3856,10 @@
   )
 
   (gr_rect (start 82.88 37.32) (end 192.88 137.32) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp 9aaf0514-2927-4794-badc-4cc58d8d9fe8))
-  (gr_text "AMPLICATEUR BE ELEC" (at 142.367 134.112) (layer "B.SilkS") (tstamp 722d1bea-4a35-47d8-b156-3e7b34773a9b)
+  (gr_text "AMPLICATEUR" (at 138.049 133.985) (layer "B.SilkS") (tstamp 722d1bea-4a35-47d8-b156-3e7b34773a9b)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "13/03/22" (at 161.671 134.112) (layer "B.SilkS") (tstamp f262f7f3-4b2a-45e1-a49e-8f0b08514d16)
+  (gr_text "13/03/22" (at 153.797 133.985) (layer "B.SilkS") (tstamp f262f7f3-4b2a-45e1-a49e-8f0b08514d16)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "HOLMES EMILY" (at 137.795 131.064) (layer "B.SilkS") (tstamp fd3d7f39-592a-4cd2-b369-8c6e207395d7)
